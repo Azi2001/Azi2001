@@ -13,7 +13,7 @@ I'm learning to become a full-stack developer, and I build projects to practise 
 
 ## Tech I use
 
-Python · Django · FastAPI · JavaScript · React · TensorFlow/Keras · SQL (SQLite) · Tailwind CSS · HTML/CSS · Git & GitHub
+Python · Django · FastAPI · JavaScript · TypeScript · React · Next.js · TensorFlow/Keras · PostgreSQL · SQLite · Prisma · SQLAlchemy · Tailwind CSS · Git & GitHub
 
 ## Contact
 
